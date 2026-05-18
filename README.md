@@ -1,6 +1,6 @@
 🗺️ LỘ TRÌNH 4 GIAI ĐOẠN TRIỂN KHAI ĐỀ TÀI
 Giai đoạn 1: Xây dựng lõi Hadoop Cluster (Hạ tầng lưu trữ & xử lý)
-- Cài đặt Java (JDK 8) trên cả 2 máy.
+- Cài đặt Java (JDK 17) trên cả 2 máy.
 
 - Tải và giải nén source Hadoop.
 
